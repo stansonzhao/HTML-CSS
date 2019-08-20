@@ -13,7 +13,7 @@ Cascading Style Sheets (English name: Cascading Style Sheets) is a computer lang
 
 # 第一个网页
     Emmet自动生成HTML代码片段
-    
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -32,11 +32,13 @@ Cascading Style Sheets (English name: Cascading Style Sheets) is a computer lang
 ## 注释
     注释是为代码的阅读者提供帮助
     HTML中的注释使用如下格式书写
+
 ```html
     <!--注释内容-->
  ```
 
 ## 元素
+
 ```html
 <a href="http://www.syics.com">信息咨询服务</a>
 ```
