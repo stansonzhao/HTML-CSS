@@ -50,6 +50,7 @@ Cascading Style Sheets (English name: Cascading Style Sheets) is a computer lang
         全局属性：这些属性所有元素通用
     有些元素没有结束标记，这样的元素叫做：**空元素**
 空元素的两种写法：
+
 ```html
         1、<mate charset = "utf-8">
         2、<mate charset = "utf-8"/>
