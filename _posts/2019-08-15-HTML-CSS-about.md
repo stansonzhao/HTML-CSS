@@ -17,7 +17,7 @@ Cascading Style Sheets (English name: Cascading Style Sheets) is a computer lang
 
 ### 术语降低沟通成本
 >1. web 互联网
->2. W3C 为互联网提供各种标准
+>2. W3C 万维网联盟 非营利性组织 为互联网提供各种标准
 >3. XML 可扩展标记语言：extension markup language，用于定义文档结构。 
 
 ## 什么是HTML？
