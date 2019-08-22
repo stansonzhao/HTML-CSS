@@ -36,7 +36,7 @@ Cascading Style Sheets (English name: Cascading Style Sheets) is a computer lang
 ## 执行HTML CSS
     HTML、CSS--> 浏览器内核执行--> 页面
 
-### 浏览器的组成
+## 浏览器的组成
     1、shell：外壳
     2、core: 内核(JS执行引擎、渲染引擎)
     3、主流浏览器和其内核
