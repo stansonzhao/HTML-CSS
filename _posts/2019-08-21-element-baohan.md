@@ -16,6 +16,7 @@ Cascading Style Sheets (English name: Cascading Style Sheets) is a computer lang
     现在:元素的包含关系由元素的内容类别决定。
     
     例如，查看h1元素中是否可以包含p元素 (可在MDN查询)
+    
 ## 总结
     1、容器元素中可以包含任何元素
     2、a元素中几乎可以包含任何元素

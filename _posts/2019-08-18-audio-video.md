@@ -13,6 +13,7 @@ Cascading Style Sheets (English name: Cascading Style Sheets) is a computer lang
 # 多媒体元素
     video 视频
     audio 音频
+
 ## video
     controls:控制播放控件的显示，写值得话，值只能为controls
     某些属性只有两种状态，要么不写属性，要么写了值为属性名(缩写只写属性名，这种属性叫布尔属性。
@@ -20,8 +21,10 @@ Cascading Style Sheets (English name: Cascading Style Sheets) is a computer lang
     autoplay:布尔属性，自动播放
     muted:布尔属性，静音播放
     loop:布尔属性，循环播放
+
 ## audio
     属性和视屏一致
+    
 ## 兼容性
     1、旧版本浏览器不支持这两个元素
     2、不通的浏览器支持的音视频格式可能不同

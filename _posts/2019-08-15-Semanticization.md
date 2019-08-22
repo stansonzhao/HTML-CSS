@@ -11,6 +11,7 @@ Hyper Text Markup Language, an application under the standard universal markup l
 
 Cascading Style Sheets (English name: Cascading Style Sheets) is a computer language used to represent file styles such as HTML (an application of the standard universal markup language) or XML (a subset of the standard universal markup language).
 # 语义化
+
 ## 什么是语义化
     1、每一个HTML元素都有具体的含义
     如：
