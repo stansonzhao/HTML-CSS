@@ -7,9 +7,7 @@ img: html-1.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [CSS, HTML]
 ---
-Hyper Text Markup Language, an application under the standard universal markup language. HTML is not a programming language, but a markup language that is essential for web page creation.
 
-Cascading Style Sheets (English name: Cascading Style Sheets) is a computer language used to represent file styles such as HTML (an application of the standard universal markup language) or XML (a subset of the standard universal markup language).
 # 语义化
 
 ## 什么是语义化
